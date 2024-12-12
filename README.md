@@ -19,7 +19,7 @@ Cree una Skill Alexa-hosted (Python) para Alexa: (_Create Skill_)
 6. Inserte el enlace al repositorio: [https://github.com/Machally/skill-alexa-geminiChat.git](https://github.com/esamudio24/skill-alexa-geminiChat.git) y confirme.
 
 ## Configurando a Skill
-Al finalizar la importaión en _Invocations_ > _Skill Invocation Name_:
+Al finalizar la importación en _Invocations_ > _Skill Invocation Name_:
 1. Edite _Skill Invocation Name_. Este será el comando de invocaión para su skill. Tome en cuenta los requisitos e restricciones de palabras
 2. Clic en _Save_
 3. Realize el Build de la Skill haciendo clic en _Build Skill_. Al finalizar, diríjase a la pestaña de **Code**
