@@ -3,7 +3,7 @@
     "apis": {
       "custom": {
         "endpoint": {
-          "uri": "arn:aws:lambda:us-east-1:590184045993:function:1b0f2778-df36-4998-96a9-3bf6bcd7147a:Release_0"
+          "uri": "arn:aws:lambda:eu-west-1:590184045993:function:1b0f2778-df36-4998-96a9-3bf6bcd7147a:Release_0"
         },
         "interfaces": [],
         "locales": {},
@@ -31,8 +31,8 @@
       "distributionCountries": [],
       "isAvailableWorldwide": true,
       "locales": {
-        "es-US": {
-          "name": "geminiChat"
+        "es-ES": {
+          "name": "GemiChat"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
