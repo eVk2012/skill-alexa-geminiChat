@@ -1,4 +1,4 @@
-# Alexa GeminiChat (español)
+# Alexa GeminiChat (es-ES)
 ### Plantilla de Skills de Alexa para integrar Google Gemini en dispositivos Alexa
 
 **Creditos a [Scintilla Hub](https://www.youtube.com/@scintillahub) visitalos en YouTube**
